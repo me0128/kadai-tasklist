@@ -3,7 +3,7 @@
 <label for="content_tsk">タスク名</label>
 <br />
 <input type="text" name="content" id="content_tsk"
-	value="${task.content}" />
+	値= "${tasks.content}"  />
 <br />
 <br />
 
